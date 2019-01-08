@@ -2,8 +2,8 @@
 import smtplib 
 from email.mime.text import MIMEText
 # 发送方账号密码
-send_from="1607439239@qq.com"
-password='dmbnugqwlqhgfgff'
+send_from="@.com"
+password=''
 
 def send_mail(send_to,themetext,maintext):
     # 接收方邮箱地址
