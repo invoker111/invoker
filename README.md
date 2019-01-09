@@ -1,1 +1,1 @@
-һЩpythonд�Ĵ���
+学python时写的代码
